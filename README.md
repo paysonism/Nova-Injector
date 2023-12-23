@@ -25,4 +25,4 @@ To use the source code, just build as release and then follow the same steps as 
 
 If you use this for your projects or free cheats etc. please gimmie credit :)
 
-Made By [Payson](https://github.com/paysonism) and 
+Made By [Payson](https://github.com/paysonism) and [XZNX5](https://github.com/XZNX5)
