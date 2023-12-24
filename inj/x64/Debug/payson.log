@@ -1,0 +1,51 @@
+﻿  driver.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\1Projects\NovaInjector\inj\api\api.h(8,22): error C2664: 'time_t time(time_t *const )': cannot convert argument 1 from 'time_t' to 'time_t *const '
+D:\1Projects\NovaInjector\inj\api\api.h(8,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h(548,42): message : see declaration of 'time'
+D:\1Projects\NovaInjector\inj\api\api.h(8,22): message : while trying to match the argument list '(time_t)'
+D:\1Projects\NovaInjector\inj\api\api.h(22,22): error C2664: 'time_t time(time_t *const )': cannot convert argument 1 from 'time_t' to 'time_t *const '
+D:\1Projects\NovaInjector\inj\api\api.h(22,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h(548,42): message : see declaration of 'time'
+D:\1Projects\NovaInjector\inj\api\api.h(22,22): message : while trying to match the argument list '(time_t)'
+D:\1Projects\NovaInjector\inj\main.cpp(12,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(12,15): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(12,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(12,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(12,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(13,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(14,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(15,15): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(16,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(16,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(16,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(16,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(16,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(17,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(17,15): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(17,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(17,15): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(17,15): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(18,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(18,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(19,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(19,15): warning C4566: character represented by universal-character-name '\u2592' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(20,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+D:\1Projects\NovaInjector\inj\main.cpp(21,15): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+  Generating Code...
