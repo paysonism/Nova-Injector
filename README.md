@@ -6,7 +6,7 @@ This is a simple nova injector i made. This allows you to bypass the new project
 
 This injector is not just for nova. This will work for all games. All you have to do is change the window name to inject to. By default it’s set to “UnrealWindow” as that is the class name for fortnite. You can find your games class name by just looking it up on google prob. The dll name and class name can be found in the code in main.cpp that looks like this (it’s at the bottom):
 ```cpp
-payson1337(“UnrealWindow”, “subz.dll”);
+payson1337(xor_a("UnrealWindow"), xor_w(L"subz.dll"));
 ```
 
 Just replace this with your desired class name and dll name. You can also replace the drivers in this. This is a fully working open source kernel injector. You can change the drivers to be used for whatever game u want.
